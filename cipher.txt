@@ -1,0 +1,10 @@
+abcdefghijklm
+zyxwvutsrqpon
+
+
+My cipher is a play on the very basic reflected method, but with a twist. So rather than just reflected its reflected and reveresed. 
+
+
+i love cryptography! = r olev xibkgltizksb!
+
+
